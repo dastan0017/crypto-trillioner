@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "word_lists",
+  "info": {
+    "singularName": "word-list",
+    "pluralName": "word-lists",
+    "displayName": "WordList",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
